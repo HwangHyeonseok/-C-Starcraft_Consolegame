@@ -1,1 +1,5 @@
-﻿  starcraftgame.vcxproj -> C:\Starcraft20220812\-C-Starcraft_Consolegame\starcraftgame\x64\Debug\starcraftgame.exe
+﻿  20220728_starcraftgame.cpp
+  starcraftgame.cpp
+C:\Starcraft20220812\-C-Starcraft_Consolegame\starcraftgame\starcraftgame\starcraftgame.cpp(299,14): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  starcraftgame.vcxproj -> C:\Starcraft20220812\-C-Starcraft_Consolegame\starcraftgame\x64\Debug\starcraftgame.exe
