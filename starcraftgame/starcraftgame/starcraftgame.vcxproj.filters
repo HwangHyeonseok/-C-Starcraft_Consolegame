@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="starcraftgame.cpp">
+    <ClCompile Include="20220812_starcraftgame.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="20220728_starcraftgame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20220815_starcraftgame.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

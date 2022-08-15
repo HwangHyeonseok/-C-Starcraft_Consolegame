@@ -128,7 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="20220728_starcraftgame.cpp" />
-    <ClCompile Include="starcraftgame.cpp" />
+    <ClCompile Include="20220812_starcraftgame.cpp" />
+    <ClCompile Include="20220815_starcraftgame.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
